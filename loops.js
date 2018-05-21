@@ -23,4 +23,6 @@ function maybeTrue() {
 
 function doWhileLoop(array) {
   do {
+    array.shift()
+  }
 }
